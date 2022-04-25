@@ -13,11 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+  ul {
+      text-align: center;
+      list-style-position: inside;
+  }
+</style>
+
 ![githubBanner](https://user-images.githubusercontent.com/69604949/165014619-b3059202-9abd-4f30-856b-de5f1d9ad531.gif)
 
 <div align='center'>
   <h1> About Me </h1>
-  <ul style='display: inline-block; list-style-position: inside;'>
+  <ul>
     <li>Student @ CSI</li>
     <li>Currently Studying <i>Javascript</i> </li>
   </ul>
