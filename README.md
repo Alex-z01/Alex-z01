@@ -45,7 +45,7 @@ through multiple languages, frameworks, api's and the like.
   <h2> Contact Me 👯💬 </h2>
   <ul>
     <li>
-      <a href='https://www.instagram.com/alexzvili/' text-decoration='none'>Instagram</a>
+      <a href='https://www.instagram.com/alexzvili/'>Instagram</a>
     </li>
     <li>
       <a href='https://www.linkedin.com/in/alex-zaalishvili-21a8461a6/'>Linkedin</a>
@@ -67,9 +67,9 @@ through multiple languages, frameworks, api's and the like.
   
   <div align='center'>
     <h4> Spotify </h4>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true"> 
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&redirect=true" />
-    </img>  
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&redirect=true">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
+    </a>
   </div>
 
   <div align='center'>
