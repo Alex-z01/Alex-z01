@@ -39,8 +39,10 @@ through multiple languages, frameworks, api's and the like.
 
 * * *
 
-<h2> Gaming Stats </h2>
-<img src="https://steam-stat.vercel.app/api?profileName=zchicken"/>
+<div align='center'>
+  <h2> My Gaming Stats </h2>
+  <img src="https://steam-stat.vercel.app/api?profileName=zchicken"/>
+</div>
 
 
 
