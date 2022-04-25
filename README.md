@@ -47,9 +47,18 @@ through multiple languages, frameworks, api's and the like.
 * * *
 
 <div align='center'>
-  <h2> Contact Me 👯💬 </h2>
-  <img src='https://discord-readme-badge.vercel.app/api?id=223899681225310208'></img>
+  <h2> Socials 👯💬 </h2>
+  <img src='https://user-images.githubusercontent.com/69604949/165027441-d8bc2c04-7e10-450f-ba1f-81bb9b9b54e6.png'>
+    <a href='https://www.instagram.com/alexzvili/' />
+  </img>
+  <img src='https://user-images.githubusercontent.com/69604949/165027695-b6461706-86a0-4183-a6bd-c666ac0209da.png'>
+    <a href='https://www.linkedin.com/in/alex-zaalishvili-21a8461a6/' />
+  </img>
+  <img src='https://user-images.githubusercontent.com/69604949/165027797-62ea4abe-d5a0-47cf-9043-cf60ce97d861.png'>
+    <a href='mailto:alex.zvili01@gmail.com' />
+  </img>
 </div>
+
 
 * * *
 
