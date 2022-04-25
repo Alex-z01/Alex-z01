@@ -43,16 +43,23 @@ through multiple languages, frameworks, api's and the like.
 
 <div align='center'>
   <h2> Contact Me 👯💬 </h2>
-  <a href='https://www.instagram.com/alexzvili/' value='Instagram'/>
-  <img src='https://user-images.githubusercontent.com/69604949/165027695-b6461706-86a0-4183-a6bd-c666ac0209da.png' width='75px' height='75px'>
-    <a href='https://www.linkedin.com/in/alex-zaalishvili-21a8461a6/' />
-  </img>
-  <img src='https://user-images.githubusercontent.com/69604949/165027797-62ea4abe-d5a0-47cf-9043-cf60ce97d861.png' width='75px' height='75px'>
-    <a href='mailto:alex.zvili01@gmail.com' />
-  </img>
-  <img src='https://user-images.githubusercontent.com/69604949/165028780-e8defd36-57f9-4797-a4f8-55881dc8f91b.svg' width='75px' height='75px'>
-    <a href='https://discord.com/users/223899681225310208' />
-  </img>
+  <ul>
+    <li>
+      <a href='https://www.instagram.com/alexzvili/'>Instagram</a>
+    </li>
+    <li>
+      <a href='https://www.linkedin.com/in/alex-zaalishvili-21a8461a6/'>Linkedin</a>
+    </li>
+    <li>
+      <a href='mailto:alex.zvili01@gmail.com'>Gmail</a>
+    </li>
+    <li>
+      <a href='https://discord.com/users/223899681225310208'>Discord</a>
+    </li>
+    <li>
+      <a href='https://twitter.com/alex_zvili'>Twitter</a>
+    </li>
+  </ul>
 </div>
 
 <div align='center'>
