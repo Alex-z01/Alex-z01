@@ -35,16 +35,11 @@ through multiple languages, frameworks, api's and the like.
 <!--![JS](https://user-images.githubusercontent.com/69604949/165022711-9310c5c8-e186-4a39-8575-1e0b6da1375c.png)-->
 <!--![CSI](https://user-images.githubusercontent.com/69604949/165023034-ded27408-9e70-44bd-9d64-0fe7251493bf.png)-->
 
-
-* * *
-
 <div align='center'>
   <h2> GitHub Stats </h2>
   <img src='https://github-readme-stats.vercel.app/api?username=Alex-z01&count_private=true&show_icons=true&theme=github_dark' height='190px'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-z01&layout=compact&theme=github_dark' height='190px'>
 </div>
-
-* * *
 
 <div align='center'>
   <h2> Socials 👯💬 </h2>
@@ -58,9 +53,6 @@ through multiple languages, frameworks, api's and the like.
     <a href='mailto:alex.zvili01@gmail.com' />
   </img>
 </div>
-
-
-* * *
 
 <div align='center'>
   <h2> Fun Stuff! </h2>
