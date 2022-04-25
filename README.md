@@ -50,13 +50,12 @@ through multiple languages, frameworks, api's and the like.
 
 <div align='center'>
   <h2> Fun Stuff! </h2>
-  <hr>
-  <h5> Spotify </h5>
-  <div align='center'>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&cover_image=false&theme=default&bar_color=19a8cc&bar_color_cover=false"> 
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&redirect=true" />
-    </img>  
-  </div>
+  <h4> Spotify </h4>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&cover_image=false&theme=default&bar_color=19a8cc&bar_color_cover=false"> 
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&redirect=true" />
+  </img>  
+  <h4> Steam Stats </h4>
+  <img src="https://steam-stat.vercel.app/api?profileName=zchicken" width='360px' height='255px'/>
 </div>
 
 
