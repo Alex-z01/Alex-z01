@@ -24,12 +24,12 @@ striving to become a programming mastermind, I aspire to open my own
 indie game dev studio someday. My Github showcases a variety of projects
 I have worked on and will also be documenting my learning journey 
 through multiple languages, frameworks, api's and the like.
-</pre>
 
-        ```javascript
-        var currentlyStudying = "Javascript";
-        alert(currentylStudying)
-        ```
+
+```javascript
+var currentlyStudying = "Javascript";
+alert(currentylStudying)
+```
 
 * * *
 
