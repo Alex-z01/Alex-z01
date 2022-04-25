@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ![githubBanner](https://user-images.githubusercontent.com/69604949/165014619-b3059202-9abd-4f30-856b-de5f1d9ad531.gif)
-<!--![githubBanner](https://user-images.githubusercontent.com/69604949/165021928-2c47b5e8-e28a-4c39-a679-2814fc2e4335.gif)-->
-
-
-![githubBanner](https://user-images.githubusercontent.com/69604949/165023790-c3c82134-7c56-4206-a7a6-73b31241fe92.mp4)
-
 
 <h1 align='center'> About Me </h1>
 
@@ -40,6 +35,14 @@ through multiple languages, frameworks, api's and the like.
 <!--![JS](https://user-images.githubusercontent.com/69604949/165022711-9310c5c8-e186-4a39-8575-1e0b6da1375c.png)-->
 <!--![CSI](https://user-images.githubusercontent.com/69604949/165023034-ded27408-9e70-44bd-9d64-0fe7251493bf.png)-->
 
+
+* * *
+
+<div align='center'>
+  <h2> GitHub Stats </h2>
+</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-z01)](https://github.com/anuraghazra/github-readme-stats)
 
 * * *
 
