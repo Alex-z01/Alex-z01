@@ -44,7 +44,12 @@ through multiple languages, frameworks, api's and the like.
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-z01&layout=compact&theme=github_dark' height='190px'>
 </div>
 
+* * *
 
+<div align='center'>
+  <h2> Contact Me 👯💬 </h2>
+  <img src='https://discord-readme-badge.vercel.app/api?id=223899681225310208'></img>
+</div>
 
 * * *
 
