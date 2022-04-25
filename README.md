@@ -51,7 +51,7 @@ through multiple languages, frameworks, api's and the like.
 <div align='center'>
   <h2> Fun Stuff! </h2>
   <h4> Spotify </h4>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"> 
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true"> 
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&redirect=true" />
   </img>  
   <h4> Steam Stats </h4>
