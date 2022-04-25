@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 
 <h1> About Me </h1>
 
-<h2> College → <a href='https://www.csi.cuny.edu/'>CSI</a>) </h2>
-
 ```javascript
 var currentlyStudying = "Javascript";
 alert(currentylStudying)
 ```
-
+<p>Student at CSI</p>
 
 
 <h2> Gaming Stats </h2>
