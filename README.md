@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 <h1> About Me </h1>
 
-* Student @ <a href='https://www.csi.cuny.edu/'>CSI</a>
+![bold]College -> <a href='https://www.csi.cuny.edu/'>CSI</a>
 
 ```javascript
 var currentlyStudying = "Javascript";
 alert(currentylStudying)
 ```
 
-![#f03c15](Dream big, aim high, and code hard)
+
 
 <h2> Gaming Stats </h2>
 <img src="https://steam-stat.vercel.app/api?profileName=zchicken"/>
