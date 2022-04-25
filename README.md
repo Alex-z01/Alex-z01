@@ -48,13 +48,13 @@ through multiple languages, frameworks, api's and the like.
 
 <div align='center'>
   <h2> Socials 👯💬 </h2>
-  <img src='https://user-images.githubusercontent.com/69604949/165027441-d8bc2c04-7e10-450f-ba1f-81bb9b9b54e6.png' width='75px' height='75px' padding='10px'>
+  <img src='https://user-images.githubusercontent.com/69604949/165027441-d8bc2c04-7e10-450f-ba1f-81bb9b9b54e6.png' width='75px' height='75px' style="padding:10px;">
     <a href='https://www.instagram.com/alexzvili/' />
   </img>
-  <img src='https://user-images.githubusercontent.com/69604949/165027695-b6461706-86a0-4183-a6bd-c666ac0209da.png' width='75px' height='75px' padding='10px'>
+  <img src='https://user-images.githubusercontent.com/69604949/165027695-b6461706-86a0-4183-a6bd-c666ac0209da.png' width='75px' height='75px' style="padding:10px;">
     <a href='https://www.linkedin.com/in/alex-zaalishvili-21a8461a6/' />
   </img>
-  <img src='https://user-images.githubusercontent.com/69604949/165027797-62ea4abe-d5a0-47cf-9043-cf60ce97d861.png' width='75px' height='75px' padding='10px'>
+  <img src='https://user-images.githubusercontent.com/69604949/165027797-62ea4abe-d5a0-47cf-9043-cf60ce97d861.png' width='75px' height='75px' style="padding:10px;">
     <a href='mailto:alex.zvili01@gmail.com' />
   </img>
 </div>
