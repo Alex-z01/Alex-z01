@@ -19,8 +19,10 @@ Here are some ideas to get you started:
   <h1> About Me </h1>
 
   <h4>• Student @ <a href='https://www.csi.cuny.edu/'>CSI</a></h4>
+  <br>
   <h4>• Currently Studying <i>Javascript</i> </h4>
 
+  
 
   <h2> Gaming Stats </h2>
   <img src="https://steam-stat.vercel.app/api?profileName=zchicken"/>
