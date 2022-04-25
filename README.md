@@ -24,7 +24,8 @@ var currentlyStudying = "Javascript";
 alert(currentylStudying)
 ```
 
-![githubImage](logomakr.com/app/7ORE3Z)
+![CSI](https://user-images.githubusercontent.com/69604949/165020488-af9eb671-a45e-4a77-8487-ff079cbf5708.png)
+
 
 * * *
 
