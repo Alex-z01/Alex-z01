@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 * Student @ <a href='https://www.csi.cuny.edu/'>CSI</a>
 
-...```javascript
-   var currentlyStudying = "Javascript";
-   alert(currentylStudying)
-    ```
+```javascript
+var currentlyStudying = "Javascript";
+alert(currentylStudying)
+```
 
 ![#f03c15](Dream big, aim high, and code hard)
 
