@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Alex-z01/Alex-z01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +15,11 @@ Here are some ideas to get you started:
 
 ![githubBanner](https://user-images.githubusercontent.com/69604949/165014619-b3059202-9abd-4f30-856b-de5f1d9ad531.gif)
 
+<h1 align='center'> About Me </h1>
+<ul>
+  <li>Student @ CSI</li>
+  <li>Currently Studying <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/></li>
+</ul>
 
+<h2 align='center'> Gaming Stats </h2>
+![Travis](https://steam-stat.vercel.app/api?profileName=zchicken)
