@@ -40,8 +40,8 @@ through multiple languages, frameworks, api's and the like.
 
 <div align='center'>
   <h2> GitHub Stats </h2>
-  <img src='https://github-readme-stats.vercel.app/api?username=Alex-z01&count_private=true&show_icons=true&theme=github_dark'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-z01&theme=github_dark'>
+  <img src='https://github-readme-stats.vercel.app/api?username=Alex-z01&count_private=true&show_icons=true&theme=github_dark' height='190px'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-z01&layout=compact&theme=github_dark' height='190px'>
 </div>
 
 
