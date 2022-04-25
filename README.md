@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 ![githubBanner](https://user-images.githubusercontent.com/69604949/165014619-b3059202-9abd-4f30-856b-de5f1d9ad531.gif)
 <!--![githubBanner](https://user-images.githubusercontent.com/69604949/165021928-2c47b5e8-e28a-4c39-a679-2814fc2e4335.gif)-->
 
+
+![githubBanner](https://user-images.githubusercontent.com/69604949/165023790-c3c82134-7c56-4206-a7a6-73b31241fe92.mp4)
+
+
 <h1 align='center'> About Me </h1>
 
 <p align='center'>Hello to anyone viewing my page! I am a CS major studying at CSI
