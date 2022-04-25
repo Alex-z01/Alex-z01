@@ -25,6 +25,7 @@ I have worked on and will also be documenting my learning journey
 through multiple languages, frameworks, api's and the like.</span>
 
 <a href='https://github.com/Alex-z01/javascript'><img src='https://user-images.githubusercontent.com/69604949/165022711-9310c5c8-e186-4a39-8575-1e0b6da1375c.png' /></a>
+<a href='https://www.csi.cuny.edu/'><img src='https://user-images.githubusercontent.com/69604949/165023034-ded27408-9e70-44bd-9d64-0fe7251493bf.png' /></a>
 <!--![JS](https://user-images.githubusercontent.com/69604949/165022711-9310c5c8-e186-4a39-8575-1e0b6da1375c.png)-->
 ![CSI](https://user-images.githubusercontent.com/69604949/165023034-ded27408-9e70-44bd-9d64-0fe7251493bf.png)
 
