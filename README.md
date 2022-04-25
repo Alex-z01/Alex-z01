@@ -19,12 +19,18 @@ Here are some ideas to get you started:
 
 <h1> About Me </h1>
 
+<pre>
+Hello to anyone viewing my page! I am a CS major studying at CSI
+striving to become a programming mastermind, I aspire to open my own 
+indie game dev studio someday. My Github showcases a variety of projects
+I have worked on and will also be documenting my learning journey 
+through multiple languages, frameworks, api's and the like.
+</pre>
+
 ```javascript
 var currentlyStudying = "Javascript";
 alert(currentylStudying)
 ```
-
-<img src='https://user-images.githubusercontent.com/69604949/165020488-af9eb671-a45e-4a77-8487-ff079cbf5708.png' width='25%' height='25%'/>
 
 * * *
 
