@@ -52,7 +52,7 @@ through multiple languages, frameworks, api's and the like.
   <h2> Fun Stuff! </h2>
   <h4> Spotify </h4>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&cover_image=false&theme=default&bar_color=19a8cc&bar_color_cover=false"> 
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&redirect=true" />
+    <a href="https://github.com/kittinan/spotify-github-profile" />
   </img>  
   <h4> Steam Stats </h4>
   <img src="https://steam-stat.vercel.app/api?profileName=zchicken" width='360px' height='255px'/>
