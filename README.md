@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 * * *
 
-<h1> About Me </h1>
+<h1 align='center'> About Me </h1>
 
-Hello to anyone viewing my page! I am a CS major studying at CSI
+<span align='center' color='blue'>Hello to anyone viewing my page! I am a CS major studying at CSI
 striving to become a programming mastermind, I aspire to open my own 
 indie game dev studio someday. My Github showcases a variety of projects
 I have worked on and will also be documenting my learning journey 
-through multiple languages, frameworks, api's and the like.
+through multiple languages, frameworks, api's and the like.</span>
 
 
 ```javascript
