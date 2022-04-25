@@ -45,7 +45,7 @@ through multiple languages, frameworks, api's and the like.
   <h2> Contact Me 👯💬 </h2>
   <ul>
     <li>
-      <a href='https://www.instagram.com/alexzvili/'>Instagram</a>
+      <a href='https://www.instagram.com/alexzvili/' text-decoration='none'>Instagram</a>
     </li>
     <li>
       <a href='https://www.linkedin.com/in/alex-zaalishvili-21a8461a6/'>Linkedin</a>
