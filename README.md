@@ -45,19 +45,19 @@ through multiple languages, frameworks, api's and the like.
   <h2> Contact Me 👯💬 </h2>
   <ul>
     <li>
-      <a href='https://www.instagram.com/alexzvili/'>Instagram</a>
+      <a href='https://www.instagram.com/alexzvili/' target="_blank">Instagram</a>
     </li>
     <li>
-      <a href='https://www.linkedin.com/in/alex-zaalishvili-21a8461a6/'>Linkedin</a>
+      <a href='https://www.linkedin.com/in/alex-zaalishvili-21a8461a6/' target="_blank">Linkedin</a>
     </li>
     <li>
-      <a href='mailto:alex.zvili01@gmail.com'>Gmail</a>
+      <a href='mailto:alex.zvili01@gmail.com' target="_blank">Gmail</a>
     </li>
     <li>
-      <a href='https://discord.com/users/223899681225310208'>Discord</a>
+      <a href='https://discord.com/users/223899681225310208' target="_blank">Discord</a>
     </li>
     <li>
-      <a href='https://twitter.com/alex_zvili'>Twitter</a>
+      <a href='https://twitter.com/alex_zvili' target="_blank">Twitter</a>
     </li>
   </ul>
 </div>
@@ -67,14 +67,14 @@ through multiple languages, frameworks, api's and the like.
   
   <div align='center'>
     <h4> Spotify </h4>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&redirect=true">
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&redirect=true" target="_blank">
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
     </a>
   </div>
 
   <div align='center'>
     <h4> Steam Stats </h4>
-    <a href='https://steamcommunity.com/id/zchicken/'>
+    <a href='https://steamcommunity.com/id/zchicken/' target="_blank">
       <img src="https://steam-stat.vercel.app/api?profileName=zchicken" />
     </a>
   </div>
