@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ![githubBanner](https://user-images.githubusercontent.com/69604949/165014619-b3059202-9abd-4f30-856b-de5f1d9ad531.gif)
 
+* * *
 
 <h1> About Me </h1>
 
@@ -22,6 +23,8 @@ Here are some ideas to get you started:
 var currentlyStudying = "Javascript";
 alert(currentylStudying)
 ```
+
+![githubImage](logomakr.com/app/7ORE3Z)
 
 * * *
 
