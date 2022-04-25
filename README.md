@@ -24,11 +24,8 @@ indie game dev studio someday. My Github showcases a variety of projects
 I have worked on and will also be documenting my learning journey 
 through multiple languages, frameworks, api's and the like.</span>
 
+![JS](https://user-images.githubusercontent.com/69604949/165022711-9310c5c8-e186-4a39-8575-1e0b6da1375c.png)
 
-```javascript
-var currentlyStudying = "Javascript";
-alert(currentylStudying)
-```
 
 * * *
 
