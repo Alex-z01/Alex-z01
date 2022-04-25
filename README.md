@@ -74,7 +74,9 @@ through multiple languages, frameworks, api's and the like.
 
   <div align='center'>
     <h4> Steam Stats </h4>
-    <img src="https://steam-stat.vercel.app/api?profileName=zchicken" />
+    <a href='https://steamcommunity.com/id/zchicken/'>
+      <img src="https://steam-stat.vercel.app/api?profileName=zchicken" />
+    </a>
   </div>
 
 </div>
