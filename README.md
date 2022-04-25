@@ -19,7 +19,10 @@ Here are some ideas to get you started:
   <h1> About Me </h1>
 
   <h4>• Student @ <a href='https://www.csi.cuny.edu/'>CSI</a></h4>
-  <h4>• Currently Studying <i>Javascript</i> </h4>
+  ```javascript
+  var currentlyStudying = "Javascript";
+  alert(currentylStudying)
+  ```
 
  ![#f03c15](Dream big, aim high, and code hard)
 
