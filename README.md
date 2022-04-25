@@ -51,14 +51,14 @@ through multiple languages, frameworks, api's and the like.
 <div align='center'>
   <h2> Fun Stuff! </h2>
   
-  <div align='left' margin-right='20px'>
+  <div align='center'>
     <h4> Spotify </h4>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true"> 
       <a href="https://spotify-github-profile.vercel.app/api/view?uid=214haflrbhimmgvzfaq6egmva&redirect=true" />
     </img>  
   </div>
 
-  <div align='right'>
+  <div align='center'>
     <h4> Steam Stats </h4>
     <img src="https://steam-stat.vercel.app/api?profileName=zchicken" />
   </div>
