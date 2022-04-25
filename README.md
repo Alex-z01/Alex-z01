@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 aiming to learn as much as possible, I aspire to open my own 
 indie game dev studio someday. My Github showcases a variety of projects
 I have worked on and will also be documenting my learning journey 
-through multiple languages, frameworks, api's and the like.</span>
+through multiple languages, frameworks, api's and the like.
+</span>
 
 <div align='center'>
   <a href='https://github.com/Alex-z01/javascript'>
