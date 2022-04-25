@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <div align='center'>
   <h1> About Me </h1>
   <ul>
-    <li>Student @ CSI</li>
-    <li>Currently Studying <i>Javascript</i> </li>
+    <li style='list-style-position: inside;'>Student @ CSI</li>
+    <li style='list-style-position: inside;'>Currently Studying <i>Javascript</i> </li>
   </ul>
 
   <h2> Gaming Stats </h2>
