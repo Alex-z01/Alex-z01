@@ -24,8 +24,7 @@ var currentlyStudying = "Javascript";
 alert(currentylStudying)
 ```
 
-![CSI](https://user-images.githubusercontent.com/69604949/165020488-af9eb671-a45e-4a77-8487-ff079cbf5708.png)
-
+<img src='https://user-images.githubusercontent.com/69604949/165020488-af9eb671-a45e-4a77-8487-ff079cbf5708.png' width='20px' height='50px'/>
 
 * * *
 
