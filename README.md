@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--![githubBanner](https://user-images.githubusercontent.com/69604949/165014619-b3059202-9abd-4f30-856b-de5f1d9ad531.gif)-->
-![githubBanner](https://user-images.githubusercontent.com/69604949/165021928-2c47b5e8-e28a-4c39-a679-2814fc2e4335.gif)
+![githubBanner](https://user-images.githubusercontent.com/69604949/165014619-b3059202-9abd-4f30-856b-de5f1d9ad531.gif)
+<!--![githubBanner](https://user-images.githubusercontent.com/69604949/165021928-2c47b5e8-e28a-4c39-a679-2814fc2e4335.gif)-->
 
 <h1 align='center'> About Me </h1>
 
