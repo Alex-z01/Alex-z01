@@ -15,19 +15,20 @@ Here are some ideas to get you started:
 
 ![githubBanner](https://user-images.githubusercontent.com/69604949/165014619-b3059202-9abd-4f30-856b-de5f1d9ad531.gif)
 
-<div align='center'>
-  <h1> About Me </h1>
 
-  <h4>• Student @ <a href='https://www.csi.cuny.edu/'>CSI</a></h4>
+<h1> About Me </h1>
 
- ![#f03c15](Dream big, aim high, and code hard)
+* Student @ <a href='https://www.csi.cuny.edu/'>CSI</a>
 
-  <h2> Gaming Stats </h2>
-  <img src="https://steam-stat.vercel.app/api?profileName=zchicken"/>
+... ```javascript
+    var currentlyStudying = "Javascript";
+    alert(currentylStudying)
+    ```
 
-</div>
+![#f03c15](Dream big, aim high, and code hard)
 
-  ```javascript
-  var currentlyStudying = "Javascript";
-  alert(currentylStudying)
-  ```
+<h2> Gaming Stats </h2>
+<img src="https://steam-stat.vercel.app/api?profileName=zchicken"/>
+
+
+
