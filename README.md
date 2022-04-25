@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <style>
   ul {
-      text-align: center;
-      list-style-position: inside;
+    margin: 0;
+    padding: 0;
   }
 </style>
 
