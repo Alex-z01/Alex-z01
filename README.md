@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align='center'>
   <h1> About Me </h1>
 
-  <h4>• Student @ CSI</h4>
+  <h4>• Student @ <a href='https://www.csi.cuny.edu/'>CSI</a></h4>
   <h4>• Currently Studying <i>Javascript</i> </h4>
 
 
