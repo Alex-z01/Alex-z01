@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1> About Me </h1>
 
-![bold]College -> <a href='https://www.csi.cuny.edu/'>CSI</a>
+<style>College -> <a href='https://www.csi.cuny.edu/'>CSI</a> {color:Blue;}</style>
 
 ```javascript
 var currentlyStudying = "Javascript";
