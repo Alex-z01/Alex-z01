@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h1 align='center'> About Me </h1>
 <ul>
   <li>Student @ CSI</li>
-  <li>Currently Studying <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/></li>
+  <li>Currently Studying <i>Javascript</i> </li>
 </ul>
 
 <h2 align='center'> Gaming Stats </h2>
-![Travis](https://steam-stat.vercel.app/api?profileName=zchicken)
+<img src="https://steam-stat.vercel.app/api?profileName=zchicken"/>
