@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 var currentlyStudying = "Javascript";
 alert(currentylStudying)
 ```
-<p>Student at CSI</p>
 
+* * *
 
 <h2> Gaming Stats </h2>
 <img src="https://steam-stat.vercel.app/api?profileName=zchicken"/>
