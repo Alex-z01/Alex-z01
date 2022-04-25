@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 
 ![githubBanner](https://user-images.githubusercontent.com/69604949/165014619-b3059202-9abd-4f30-856b-de5f1d9ad531.gif)
 
-<h1 align='center'> About Me </h1>
-<ul>
-  <li>Student @ CSI</li>
-  <li>Currently Studying <i>Javascript</i> </li>
-</ul>
+<div align='center'>
+  <h1> About Me </h1>
+  <ul>
+    <li>Student @ CSI</li>
+    <li>Currently Studying <i>Javascript</i> </li>
+  </ul>
 
-<h2 align='center'> Gaming Stats </h2>
-<img src="https://steam-stat.vercel.app/api?profileName=zchicken"/>
+  <h2> Gaming Stats </h2>
+  <img src="https://steam-stat.vercel.app/api?profileName=zchicken"/>
+
+</div>
