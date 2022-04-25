@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <h4>• Student @ <a href='https://www.csi.cuny.edu/'>CSI</a></h4>
   <h4>• Currently Studying <i>Javascript</i> </h4>
 
- ![#f03c15]Dream big, aim high, and code hard</span>
+ ![#f03c15](Dream big, aim high, and code hard)
 
   <h2> Gaming Stats </h2>
   <img src="https://steam-stat.vercel.app/api?profileName=zchicken"/>
