@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align='center'>
   <h1> About Me </h1>
 
-  <h3>Student @ CSI</h3
+  <h3>Student @ CSI</h3>
   <h3>Currently Studying <i>Javascript</i> </h3>
 
 
