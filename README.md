@@ -68,13 +68,6 @@ through multiple languages, frameworks, api's and the like.
     </a>
   </div>
 
-  <div align='center'>
-    <h4> Steam Stats </h4>
-    <a href='https://steamcommunity.com/id/zchicken/'>
-      <img src="https://steam-stat.vercel.app/api?profileName=zchicken" />
-    </a>
-  </div>
-
 </div>
 
 
